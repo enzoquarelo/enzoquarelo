@@ -6,7 +6,7 @@
 
 <img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0129.gif" width="100%" height="3px">
 
-![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoquarelo&show_icons=true&theme=onedark)
+[![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoquarelo)](https://github.com/enzoquarelo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoquarelo&layout=compact&theme=onedark)](https://github.com/enzoquarelo/github-readme-stats)
 
 <img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0129.gif" width="100%" height="3px">
