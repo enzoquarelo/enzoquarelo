@@ -2,7 +2,7 @@
 
 <img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0129.gif" width="100%" height="3px">
 
-<img src="./images/Frame 1.png" width="100%" align="center" alt="">
+<img src="./images/banner.png" width="100%" align="center" alt="">
 
 <img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0129.gif" width="100%" height="3px">
 
