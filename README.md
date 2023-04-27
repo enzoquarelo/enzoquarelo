@@ -17,8 +17,12 @@ Tenho 16 anos, jogo vôlei🏐 e também sou um amante de jogos🎮.
 
 <img src="./assets/linha-divisoria.png" width="100%" height="3px">
 
-  ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoquarelo&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoquarelo&layout=compact&theme=dark)
+  <div align="center">  
+ 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=enzoquarelo&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Enzo Quarelo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoquarelo&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Enzo Quarelo github languanges"/>
+
+</div>
 
 <img src="./assets/linha-divisoria.png" width="100%" height="3px">
 
