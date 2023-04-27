@@ -1,10 +1,11 @@
 ### Bem-Vindo ao meu Perfil! 🤙
 
+<img src="./assets/linha-divisoria.png" width="100%" height="3px">
+
+<img src="./assets/mega-rayquaza-rayquaza.gif">
+
 <img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0129.gif" width="100%" height="3px">
 
-<img src="./images/banner.png" width="100%" align="center" alt="">
-
-<img src="https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0129.gif" width="100%" height="3px">
 
 
   ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoquarelo&show_icons=true&theme=onedark)
