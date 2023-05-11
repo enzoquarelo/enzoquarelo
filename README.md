@@ -2,8 +2,6 @@
 
 <img src="./assets/linha-divisoria.png" width="100%" height="3px">
 
-<img src="./assets/mega-rayquaza-rayquaza.gif" min-width="200px" max-width="125px" width="125px" align="right" alt="pokemon-rayquaza.gif">
-
 <div style>
 
 
