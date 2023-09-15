@@ -1,4 +1,4 @@
-### Bem-Vindo ao meu Perfil! 🤙
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E8B57&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+me+chamo+Enzo+Quarelo;Moro+em+Guarulhos-SP;Curso+Desenvolvimento+no+SENAI+Informática;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 
 <img src="./assets/linha-divisoria.png" width="100%" height="3px">
 
@@ -9,7 +9,9 @@ Meu nome é Enzo, atualmente cursando Desenvolvimento de Sistemas na escola Sena
 
 A procura de colocar as habilidades adiquiridas em prática.
 
-Tenho 16 anos, jogo vôlei🏐 e também sou um amante de jogos🎮.
+Tenho 16 anos, sempre a procura de aprender mais.
+
+Hoobies como vôlei🏐 e também sou um amante de jogos🎮.
 
 </div>
 
