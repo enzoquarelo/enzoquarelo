@@ -7,7 +7,7 @@
 
 Meu nome é Enzo, atualmente cursando Desenvolvimento de Sistemas na escola Senai de Informática!
 
-A procura de colocar as habilidades adiquiridas em prática.
+A procura de colocar as habilidades adiquiridas em prática e ingressar no mercado de trabalho.
 
 Tenho 16 anos, sempre a procura de aprender mais.
 
