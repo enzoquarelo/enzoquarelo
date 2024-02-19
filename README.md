@@ -3,7 +3,7 @@
 <img src="./assets/linha-divisoria.png" width="100%" height="3px">
 
 <div align="center" > 
-  Meu nome é Enzo, atualmente cursando Desenvolvimento de Sistemas no SENAI "Paulo Antônio Skaf", atualmente no 2º semestre.<br/>
+  Meu nome é Enzo, atualmente cursando Desenvolvimento de Sistemas no SENAI "Paulo Antônio Skaf", atualmente no 3º semestre.<br/>
   <br/>
   Perfil de atleta desenvolvido com o vôlei me fez sempre me esforçar para ser melhor.<br/>
   <br/>
