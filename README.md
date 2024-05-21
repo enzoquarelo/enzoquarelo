@@ -5,7 +5,7 @@
 <div align="center" > 
   Meu nome é Enzo, atualmente cursando Desenvolvimento de Sistemas no SENAI "Paulo Antônio Skaf", atualmente no 3º semestre.<br/>
   <br/>
-  Perfil de atleta desenvolvido com o vôlei me fez sempre me esforçar para ser melhor.<br/>
+  Desenvolvedor Full-Stack com grande paixão pelo Front-End.<br/>
   <br/>
   Apaixonado por jogos 🎮 e programação 👨‍💻 desde pequeno !<br/>
 </div>
